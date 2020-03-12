@@ -1,6 +1,8 @@
-# weather_wizard
+# weather_wizard☁
 
-A new Flutter project.
+A weather application.
+
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
 
 ## Getting Started
 
